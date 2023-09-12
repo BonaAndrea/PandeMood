@@ -1,0 +1,20 @@
+{
+    "name": "UniGLTF.Editor",
+    "references": [
+        "UniGLTF",
+        "MeshUtility",
+        "MeshUtility.Editor",
+        "VRMShaders",
+        "VRMShaders.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

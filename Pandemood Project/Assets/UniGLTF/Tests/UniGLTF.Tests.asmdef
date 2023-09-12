@@ -1,0 +1,21 @@
+{
+    "name": "UniGLTF.Tests",
+    "references": [
+        "UniGLTF",
+        "UniGLTF.Editor",
+        "VRMShaders",
+        "VRMShaders.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
